@@ -5,5 +5,4 @@
 * Maven
 * Allure
 
-### run
-* Just double-click on the runner.bat file.
+
