@@ -11,7 +11,7 @@ import pages.LoginPage;
 import static org.testng.Assert.assertTrue;
 
 /**
- * Checks all Results contains dress text
+ * Checks all Results contains dress text >> it will fail because there is 1 product Blouse
  **/
 
 @Listeners(TestngListener.class)

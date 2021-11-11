@@ -13,6 +13,10 @@ import static org.testng.Assert.assertTrue;
 @Listeners(TestngListener.class)
 public class LoginTests extends BaseTests {
 
+    /**
+     * Check login with registered account with valid password
+     **/
+
     @Test(dataProvider = "valid-user-credentials", dataProviderClass = data_providers.DataProviders.class)
     public void testValidLogin(String email, String password) {
         var loginPage = new LoginPage(getDriver());
@@ -22,6 +26,10 @@ public class LoginTests extends BaseTests {
 
         assertEquals(homePage.getSignOutText(), "Sign out");
     }
+
+    /**
+     * Check login with registered account with invalid password and unregistered account
+     **/
 
     @Test(dataProvider = "invalid-user-credentials", dataProviderClass = data_providers.DataProviders.class)
     public void testInvalidLogin(String email, String password, String message) {
