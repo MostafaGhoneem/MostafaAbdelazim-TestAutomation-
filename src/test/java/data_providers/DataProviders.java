@@ -13,4 +13,9 @@ public class DataProviders {
     public static Object[][] geInValidUserCredentials() {
         return new ExcelReader("user-credentials", "invalid credentials").getData();
     }
+
+    @DataProvider(name = "search-data")
+    public static Object[][] geSearchData() {
+        return new ExcelReader("search-data", "search query").getData();
+    }
 }

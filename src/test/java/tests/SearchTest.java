@@ -16,16 +16,16 @@ import static org.testng.Assert.assertTrue;
 
 @Listeners(TestngListener.class)
 public class SearchTest extends BaseTests {
-    @Test
-    public void ValidateSearchResults() {
+    @Test(dataProvider = "search-data", dataProviderClass = data_providers.DataProviders.class)
+    public void ValidateSearchResults(String SearchQuery) {
         var credentials = new ExcelReader("user-credentials", "valid credentials").getFirstRow();
         var loginPage = new LoginPage(getDriver());
         loginPage.enterUserCredentials(credentials.get("email").toString(), credentials.get("password").toString()).login();
         var homePage = new HomePage(getDriver());
-        var results = homePage.SearchForProduct("dress").getSearchResults();
+        var results = homePage.SearchForProduct(SearchQuery).getSearchResults();
 
         results.forEach(r ->
-                assertTrue(r.toLowerCase().contains("dress"))
+                assertTrue(r.toLowerCase().contains(SearchQuery))
         );
 
 

@@ -606,3 +606,147 @@ Nov 11, 2021 4:25:29 PM utilities.MyLogger info
 INFO: TakeScreenshot: --> Taking screenshot for ValidateSearchResults
 Nov 11, 2021 4:25:29 PM utilities.MyLogger info
 INFO: Default Suite: -->  ==============================================> Finished <==============================================
+Nov 11, 2021 8:43:58 PM utilities.MyLogger info
+INFO: Default Suite: -->  ==============================================> Started <==============================================
+Nov 11, 2021 8:44:00 PM utilities.MyLogger info
+INFO: WebDriverFactory: --> Initializing normal Chrome driver
+Nov 11, 2021 8:44:02 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Navigating to http://automationpractice.com/
+Nov 11, 2021 8:44:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Navigated to http://automationpractice.com/ successfully
+Nov 11, 2021 8:44:08 PM utilities.MyLogger info
+INFO: ValidateSearchResults: -->  ******************************** Started ********************************
+Nov 11, 2021 8:44:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.className: login]
+Nov 11, 2021 8:44:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.className: login]
+Nov 11, 2021 8:44:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.className: login]
+Nov 11, 2021 8:44:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.className: login]
+Nov 11, 2021 8:44:08 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Clicking on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: login]]
+Nov 11, 2021 8:44:09 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully clicked on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: login]]
+Nov 11, 2021 8:44:09 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: email]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: email]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: email]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: email]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: email]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: email]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: email]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: email]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: passwd]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: passwd]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: passwd]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: passwd]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: passwd]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: passwd]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: passwd]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: passwd]]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: SubmitLogin]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: SubmitLogin]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: SubmitLogin]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: SubmitLogin]
+Nov 11, 2021 8:44:10 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Clicking on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: SubmitLogin]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully clicked on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: SubmitLogin]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Clicking on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: search_query_top]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully clicked on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: search_query_top]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.id: search_query_top]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: search_query_top]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: search_query_top]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Changing value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: search_query_top]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully changed the value of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> id: search_query_top]]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.name: submit_search]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.name: submit_search]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.name: submit_search]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.name: submit_search]
+Nov 11, 2021 8:44:11 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Clicking on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> name: submit_search]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully clicked on element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> name: submit_search]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Finding element [By.className: product-container]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully found element [By.className: product-container]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Getting text of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully got the text of the element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Getting text of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully got the text of the element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Getting text of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully got the text of the element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:12 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Getting text of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully got the text of the element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Getting text of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully got the text of the element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Getting text of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully got the text of the element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Getting text of element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: SeleniumEventListener: --> Successfully got the text of the element [[[ChromeDriver: chrome on WINDOWS (8e28421587ac3c05af7faa9ab82e1e4e)] -> class: product-container]]
+Nov 11, 2021 8:44:13 PM utilities.MyLogger warning
+WARNING: ValidateSearchResults: -->  ******************************** Failed ********************************
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: TakeScreenshot: --> Taking screenshot for ValidateSearchResults
+Nov 11, 2021 8:44:13 PM utilities.MyLogger info
+INFO: Default Suite: -->  ==============================================> Finished <==============================================

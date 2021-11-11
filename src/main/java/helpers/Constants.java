@@ -1,5 +1,7 @@
 package helpers;
 
+import org.apache.xmlbeans.impl.xb.xsdschema.Public;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -10,6 +12,7 @@ import java.util.Map;
 public class Constants {
     public static final String TEST_RESOURCES_PATH = "src/test/resources/";
     public static final String MAIN_RESOURCES_PATH = "src/main/resources/";
+
 
     private static Constants instance = null;
     private final Map<String, PropertiesReader> propReaders;
